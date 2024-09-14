@@ -1,4 +1,4 @@
-<img align='right' src='https://camo.githubusercontent.com/721d7c9349f174953eec9227b6e10303d0eebad1a2737667fe44a9489c8cb141/68747470733a2f2f73322e6c6f6c692e6e65742f323032332f30382f31342f5a394c6a58704b464f51694a6d76412e706e67' width="270" height="auto" >
+<img align='right' src='https://camo.githubusercontent.com/ffbabd3cd303d3e9f1c0c327740bcc681931a287bbce0bc23ee57bb15caaa0e7/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30392f31342f636f41584c457835687a6b384657662e706e67' width="270" height="auto" >
 
 ## Hi there 👋
 
@@ -6,7 +6,7 @@
 
 ## GitHub Stats Card
 
-[![Anurag's GitHub stats](https://camo.githubusercontent.com/59e121e610f3787f3bb86e4738fb796f350ef979da654bdac56556118834c2ed/68747470733a2f2f6769746875622d726561646d652d73746174732e6c616e79756e6465762e636f6d2f6170693f757365726e616d653d4c616e59756e446576)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats Card](https://camo.githubusercontent.com/560e7e2e4cf9923e00902543f7bc000d67749d5bbfb30114175ee819c5a04679/68747470733a2f2f6769746875622d726561646d652d73746174732e6c616e79756e6465762e636f6d2f6170693f757365726e616d653d4c616e59756e446576)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LanYunDev/LanYunDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
